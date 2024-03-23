@@ -1,0 +1,5 @@
+1. for loop is used to travel through and print the elements of a list. But, if the elements of a list are manipulated,  then while loop is the suitable one.
+
+Pieces:
+    Shift + Ctrl + V --> Saving snippets
+    Ctrl + K --> Opening the snippets

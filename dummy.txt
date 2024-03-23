@@ -1,0 +1,5 @@
+Hai I am writing to this file usign Python
+Learn the rules of rich
+play by their rules
+win the game
+This is new line after writing with python
